@@ -62,7 +62,7 @@ def get_history_chainreactors_url():
      # 转换为datetime对象
     start = datetime.datetime.strptime(start_date, "%Y-%m-%d")
     end = datetime.datetime.strptime(end_date, "%Y-%m-%d")
-    url_date_pairs = []
+    ret = []
      # 遍历每一天
     current_date = start
     while current_date <= end:
@@ -94,10 +94,11 @@ def get_history_chainreactors_url():
             )
             urls = re.findall('(?:复现|漏洞|CVE-\d+|CNVD-\d+|CNNVD-\d+|XVE-\d+|QVD-\d+|POC|EXP|0day|1day|nday|RCE|代码执行|命令执行).*?(https://mp.weixin.qq.com/(?:[a-zA-Z]|[0-9]|[$-_@.&+]|[!*]|(?:%[0-9a-fA-F][0-9a-fA-F]))+)',response.text,re.I)
             urls = [url.rstrip(')') for url in urls]
-            return urls
+            ret = urls
         except:
-            return []
+            continue
         current_date += datetime.timedelta(days=1)
+    return ret;
 def get_chainreactors_url():
     '''获取今日url'''
     current_date = datetime.datetime.now().strftime("%Y-%m-%d")
