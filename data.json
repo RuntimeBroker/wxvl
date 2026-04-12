@@ -19771,5 +19771,6 @@
     "https://mp.weixin.qq.com/s/iCkibNhvriaRYSUAbqVLPA": "Adobe正式官宣Reader漏洞已被在野利用，打开PDF可执行任意代码",
     "https://mp.weixin.qq.com/s/SZG_nvVa7t_WA-00T-6P9g": "瞻博网络默认凭据漏洞导致未授权完全访问",
     "https://mp.weixin.qq.com/s/Z61tvmg8WaRkL2h3m60eUA": "从公告到入侵不足十小时：Marimo Python Notebook 预授权 RCE 事件研判",
-    "https://mp.weixin.qq.com/s/2dauQtVxlZVdNAB1VxXRpA": "Claude 编写了一个完整的 FreeBSD 远程内核 RCE 漏洞，并利用了 Root Shell（CVE-2026-4747）"
+    "https://mp.weixin.qq.com/s/2dauQtVxlZVdNAB1VxXRpA": "Claude 编写了一个完整的 FreeBSD 远程内核 RCE 漏洞，并利用了 Root Shell（CVE-2026-4747）",
+    "https://mp.weixin.qq.com/s/ZJ22euGbz0oaxrf4bU5dXA": "攻击大模型的十大方法和漏洞"
 }
