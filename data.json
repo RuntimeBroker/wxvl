@@ -19800,5 +19800,10 @@
     "https://mp.weixin.qq.com/s/-2BwwLCz-Sp1wbBaJaHPQQ": "【视频】React 服务器函数原型污染 (RCE)",
     "https://mp.weixin.qq.com/s/ifEiawLaPusWlyOuvio-iA": "【自研工具】Zack-AI-Scanner AI智能Web漏洞扫描BurpSuite插件",
     "https://mp.weixin.qq.com/s/Ryuqi4xMPYE0gUdXjcOWwg": "【在野利用】Adobe Acrobat Reader 远程代码执行漏洞(CVE-2026-34621)安全风险通告",
-    "https://mp.weixin.qq.com/s/3o_hUBVkb_WqKeB_mvtFdQ": "0day--JeecgBoot v3.9.1 多漏洞审计过程"
+    "https://mp.weixin.qq.com/s/3o_hUBVkb_WqKeB_mvtFdQ": "0day--JeecgBoot v3.9.1 多漏洞审计过程",
+    "https://mp.weixin.qq.com/s/9kK56afE9x_PnFmRSx1odQ": "【漏洞通告】Nginx 缓冲区溢出漏洞 CVE-2026-27654",
+    "https://mp.weixin.qq.com/s/Phc50MWzVus_wrVy0OwKlA": "Axios 双重危机：CVE-2026-40175 漏洞链与 UNC1069 供应链投毒",
+    "https://mp.weixin.qq.com/s/HP8FmF4yvLpQNfezKUiqpg": "【漏洞通告】Adobe Acrobat 远程代码执行漏洞(CVE-2026-34621)",
+    "https://mp.weixin.qq.com/s/kBZ2X7eEmuTRjLIXkM43HQ": "【成功复现】Nginx溢出文件读写漏洞(CVE-2026-27654)",
+    "https://mp.weixin.qq.com/s/lniu2gT3XXDH0iuJCRCB6Q": "从漏洞到规则：安全知识自动提取的初步探索"
 }
