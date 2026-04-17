@@ -1,6 +1,5 @@
 #  [漏洞复现]某科技 X2Modbus网关 GetConfig 信息泄露漏洞  
-原创 Elon
-                    Elon  好靶场   2026-04-17 09:28  
+ 小叶Sec   2026-04-17 09:35  
   
 > 💡 好靶场   
 > 团队宗旨：我们立志于为所有的网络安全同伴制作出好的靶场，让所有初学者都可以用最低的成本入门网络安全。所以我们团队名称就叫“好靶场”。  
@@ -25,9 +24,11 @@
   
 ![](https://mmbiz.qpic.cn/sz_mmbiz_png/icCLY10D8tvLSXyYCIOG4Ew6rkjk6a3IHqXXiatiaicrHtS4aAPxn0ADtbmedYtKGaw3vVicOYTEvQ4cKHS0tlq2VLBOicOL3B0fic2RQVolce3zGk/640?wx_fmt=png&from=appmsg "")  
 ### 资产测绘fofa  
+  
 ```
 icon_hash="-1384370370"
 ```  
+  
   
 ![](https://mmbiz.qpic.cn/sz_mmbiz_png/icCLY10D8tvJWGcaS3NTo3VIGZwN8aFBwuCicRSR4ZpfW5du9L0xickRzNI36Y0xZqglgicOlOiaxibOibw4h9jmy8W2LIuIKQfrekVXgrUKhdZgPg/640?wx_fmt=png&from=appmsg "")  
 ### 漏洞POC  
