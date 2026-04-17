@@ -19932,5 +19932,11 @@
     "https://mp.weixin.qq.com/s/ZRLkJi15du8ceOEoS8JM1Q": "Windows Defender居然爆出重大提权漏洞？杀软反被利用？作者发布两小时的推文后删除？",
     "https://mp.weixin.qq.com/s/K5sSgIKopsMF-d0jmKhO5A": "【已复现】Cockpit 远程代码执行漏洞(CVE-2026-4631)安全风险通告",
     "https://mp.weixin.qq.com/s/kb8Yuz98NxW135hN3qnmdQ": "CNNVD | 关于微软多个安全漏洞的通报",
-    "https://mp.weixin.qq.com/s/OpJb8PcEQviqh54EuW8NpQ": "针对微软Defender零日漏洞的新型PoC漏洞利用程序已发布"
+    "https://mp.weixin.qq.com/s/OpJb8PcEQviqh54EuW8NpQ": "针对微软Defender零日漏洞的新型PoC漏洞利用程序已发布",
+    "https://mp.weixin.qq.com/s/WYhN-doMdXETDAuqoU6tpA": "抓紧打补丁！4月Patch Tuesday核心高危漏洞技术深度解析（内附高危漏洞速查清单）",
+    "https://mp.weixin.qq.com/s/oWX5Xg6BxSDH3fp0DIgEVg": "漏洞预警 | Oracle Identity Manager远程代码执行漏洞",
+    "https://mp.weixin.qq.com/s/TyF6pnpDhE_Z7WHlF3aHRg": "天地伟业Easy7 uploadFile接口存在任意文件上传漏洞 附POC",
+    "https://mp.weixin.qq.com/s/gg1KMQpuHQPWRng-nPxWBA": "Adobe正式官宣Reader漏洞已被在野利用，打开PDF可执行任意代码",
+    "https://mp.weixin.qq.com/s/dDXBTTz74CUJW0-THbZ8dg": "Windows Defender LPE 0day 漏洞",
+    "https://mp.weixin.qq.com/s/WGncNI3qoD9xgZuehrtqHA": "漏洞预警 | LEAN MES系统SQL注入漏洞"
 }
