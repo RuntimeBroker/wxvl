@@ -20391,5 +20391,12 @@
     "https://mp.weixin.qq.com/s/5Q_2Gs8PkH67gYsnMxP_dA": "Linux曝出“核弹级”漏洞CVE-2026-31431：攻击者可瞬间提权",
     "https://mp.weixin.qq.com/s/B9xcSm5BGGFA4NQZK6QoIg": "【风险提示】天融信关于Linux Kernel本地权限提升漏洞(CVE-2026-31431)的风险提示",
     "https://mp.weixin.qq.com/s/x7Wlh1kOcA-bQOHyXZBIDg": "CNNVD关于cPanel访问控制错误漏洞的通报",
-    "https://mp.weixin.qq.com/s/NGcvLQw38sVQPjZN2rU4fQ": "【漏洞预警】CVE-2026-31431 Linux内核crypto:algif_aead逻辑漏洞 本地权限提升分析"
+    "https://mp.weixin.qq.com/s/NGcvLQw38sVQPjZN2rU4fQ": "【漏洞预警】CVE-2026-31431 Linux内核crypto:algif_aead逻辑漏洞 本地权限提升分析",
+    "https://mp.weixin.qq.com/s/-Q2r9raSwKhD5ST-_iE9cQ": "网络设备通用漏洞挖掘由黑到白",
+    "https://mp.weixin.qq.com/s/TW7FFvx7SXWsHRrqgY-v4w": "CVE-2026-31431",
+    "https://mp.weixin.qq.com/s/MMeMCSPJ_IO4peFb94fXbw": "CVE-2026-31431（Copy Fail）漏洞FAQ（上）——漏洞的基本情况、影响范围与处置篇",
+    "https://mp.weixin.qq.com/s/eMCDye1A-LfO6gMsTTvNSQ": "CVE-2026-31431：我用 DeepSeek 复现了 AI 发现Copy Fail 提权的全过程",
+    "https://mp.weixin.qq.com/s/cjO8jcq1Nm-t2SxWnoRGhw": "【已复现】CVE-2026-31431 Linux内核本地提权漏洞（Copy Fail）",
+    "https://mp.weixin.qq.com/s/RJG_ZSZGDJj3v2HHPunfog": "WordPress WooCommerce Designer Pro存在任意文件读取CVE-2025-10897 附POC",
+    "https://mp.weixin.qq.com/s/yChwE7QVLGdrTCSi0-jSNg": "Hermes的应用（五）：分析CopyFail（CVE-2026-31431）高危漏洞Poc"
 }
