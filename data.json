@@ -20479,5 +20479,6 @@
     "https://mp.weixin.qq.com/s/oVkRDMGS7gR9ZazQQ88Nlw": "实战复现：公交系统未授权登录 + SQL 注入漏洞利用全解",
     "https://mp.weixin.qq.com/s/T-iRx7D-OLzF9FVJVR7e7Q": "CVE-2026-31431 \"Copy Fail\" 漏洞深度分析",
     "https://mp.weixin.qq.com/s/O5a00ufMvqUZjXekKo2P3w": "【网安周报】：Linux 内核爆史诗级0-Day，cPanel满分漏洞威胁百万实例（4.26 - 5.03）",
-    "https://mp.weixin.qq.com/s/DuTi56EjgJxUpOeLBW1URA": "从信息收集到漏洞报告：一款好用的AI Agent 渗透测试skill"
+    "https://mp.weixin.qq.com/s/DuTi56EjgJxUpOeLBW1URA": "从信息收集到漏洞报告：一款好用的AI Agent 渗透测试skill",
+    "https://mp.weixin.qq.com/s/waGLYUcPMMttlPZsVDq09w": "Sub2Api 网关平台存在0计费bug漏洞"
 }
