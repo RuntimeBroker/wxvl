@@ -20585,5 +20585,7 @@
     "https://mp.weixin.qq.com/s/RsHUuVUl6SWaOAgrj2wPzw": "26长城杯半决赛IntraBadge复现",
     "https://mp.weixin.qq.com/s/bQpCPb16xf-IIcKQXWXcGA": "天地伟业Easy7 ∕Easy7∕rest∕file∕deleteFile 文件删除漏洞",
     "https://mp.weixin.qq.com/s/dS-IuF5aVdZPoO2z9kzfdQ": "Palo Alto防火墙高危漏洞遭野外利用，攻击者可一键获取root权限",
-    "https://mp.weixin.qq.com/s/tyzzhGW6ZMpGcfFkjImnfA": "紧急预警：GitHub 高危 RCE 漏洞（CVE-2026-3854）—— 一条 git push 即可接管服务器"
+    "https://mp.weixin.qq.com/s/tyzzhGW6ZMpGcfFkjImnfA": "紧急预警：GitHub 高危 RCE 漏洞（CVE-2026-3854）—— 一条 git push 即可接管服务器",
+    "https://mp.weixin.qq.com/s/TIANdxyezsJNWFl2QPiamQ": "vm2 沙箱严重漏洞可导致在宿主机执行代码",
+    "https://mp.weixin.qq.com/s/efou4Tc-6p7DsP1B_iPZZQ": "本地文件包含 (LFI) — 从基本漏洞利用到源代码泄露"
 }
