@@ -20756,5 +20756,7 @@
     "https://mp.weixin.qq.com/s/ODwNF6DABtS6sioP-OsL7g": "【漏洞复现】0day-迈普多业务融合网关逻辑缺陷导致登录绕过",
     "https://mp.weixin.qq.com/s/3riLTzU9cRgkB6sdpdKqvw": "今日（2026年5月12日）热点网络安全漏洞动态",
     "https://mp.weixin.qq.com/s/JHM9OoEF3h-HDS2wNRk3Ew": "安卓惊现零点击核弹漏洞！远程Shell权限被轻易窃取，PoC已公开",
-    "https://mp.weixin.qq.com/s/mDp9EC-Pava5CappYuTDiQ": "360发布“龙虾”生态安全报告：23个漏洞覆盖10余款产品，智能体安全风险蔓延全行业"
+    "https://mp.weixin.qq.com/s/mDp9EC-Pava5CappYuTDiQ": "360发布“龙虾”生态安全报告：23个漏洞覆盖10余款产品，智能体安全风险蔓延全行业",
+    "https://mp.weixin.qq.com/s/wB1Nto61yY1wymP3O27sYg": "PHP SOAP 扩展存在严重漏洞，可导致远程代码执行攻击",
+    "https://mp.weixin.qq.com/s/c6VZNFWIDw0h_xuK0G45Yw": "空密码后台 → SQLite 落地 Webshell → 内核 CVE-2026-31431 root"
 }
