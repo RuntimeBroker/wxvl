@@ -20827,5 +20827,6 @@
     "https://mp.weixin.qq.com/s/yDz1UOysRV6zQ_qy7Gg7zg": "2026 年 5 月微软补丁星期二：修复 138 个漏洞，部分漏洞风险极高",
     "https://mp.weixin.qq.com/s/cs8GKRAk6IGzxEpmMs-Y5Q": "【已复现】Linux Kernel Fragnesia 本地权限提升漏洞(CVE-2026-46300)安全风险通告",
     "https://mp.weixin.qq.com/s/Q4eugNKoZ7ZdDdmx1PuFZA": "【高危AI漏洞预警】CVE-2026-42203｜LiteLLM AI Gateway 服务端模板注入远程代码执行（RCE）",
-    "https://mp.weixin.qq.com/s/HfILLgfTU69sJDP7KLusww": "TurboMail mailmain 信息泄露漏洞"
+    "https://mp.weixin.qq.com/s/HfILLgfTU69sJDP7KLusww": "TurboMail mailmain 信息泄露漏洞",
+    "https://mp.weixin.qq.com/s/jr-bJQ9S_iXJysjSuWURYA": "青之LIMS BatchDownloadPdf接口存在任意文件读取漏洞 附POC"
 }
