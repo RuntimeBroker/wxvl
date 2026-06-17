@@ -21245,5 +21245,6 @@
     "https://mp.weixin.qq.com/s/wgnYYjGmHUnkJcV7IEafvA": "NVIDIA NeMo曝安全漏洞，系统面临命令注入攻击风险",
     "https://mp.weixin.qq.com/s/rd9AN4jERTTy7Gok01YGZQ": "Kernel 新漏洞曝光！多款主流 Linux 发行版存在 Root 本地提权风险",
     "https://mp.weixin.qq.com/s/d_K08FHmoCsLsNSJQ78nZA": "世界杯官方赛事系统曝漏洞：电视直播流未设置权限，可被任意查看篡改",
-    "https://mp.weixin.qq.com/s/FWZmcFiKSRmFRrqNfWatlg": "美国网络安全和基础设施安全局 (CISA) 发布警报，称 Oracle PeopleSoft 漏洞已被勒索软件组织利用"
+    "https://mp.weixin.qq.com/s/FWZmcFiKSRmFRrqNfWatlg": "美国网络安全和基础设施安全局 (CISA) 发布警报，称 Oracle PeopleSoft 漏洞已被勒索软件组织利用",
+    "https://mp.weixin.qq.com/s/ijLCWBvroVkvtC_X0cdspg": "Apache CXF XXE 外部实体解析漏洞 | CVE-2026-49875复现&研究"
 }
