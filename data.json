@@ -21635,5 +21635,7 @@
     "https://mp.weixin.qq.com/s/N9ED93sg-sFkZcdKoeKeFw": "信息安全漏洞月报（2026年06月）",
     "https://mp.weixin.qq.com/s/yoENe4EgdO7qEdA-Cz-2sQ": "Synacktiv 公开披露了一个 Kerberos 反射绕过漏洞（CVE-2026-26128），并提供了 PoC 漏洞利用代码",
     "https://mp.weixin.qq.com/s/WOAnzLINbAj9n92bj7GG7A": "FatFs漏洞使攻击者可利用特制USB∕SD卡镜像执行代码",
-    "https://mp.weixin.qq.com/s/S4TMmQLkB7x-WAoTA7W-2w": "在Langflow开源软件中发现的严重安全漏洞"
+    "https://mp.weixin.qq.com/s/S4TMmQLkB7x-WAoTA7W-2w": "在Langflow开源软件中发现的严重安全漏洞",
+    "https://mp.weixin.qq.com/s/pe93aMfUEkVVs0j6cqeSfg": "Linux再曝“秒提权”0day：一个看不见的6指令窗口，黑客可直通root",
+    "https://mp.weixin.qq.com/s/h9hRAy7ldqZIhcQPZAdnnQ": "上周关注度较高的产品安全漏洞(20260629-20260705)"
 }
