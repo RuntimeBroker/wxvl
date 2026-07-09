@@ -21689,5 +21689,20 @@
     "https://mp.weixin.qq.com/s/oSNqXiN9cS8V_2xTAPVX-g": "BeyondTrust 远程接入平台四枚高危漏洞全拆解：从认证绕过到\"零信任\"信任崩塌的完整攻击链",
     "https://mp.weixin.qq.com/s/OFokLPFwqsWcVfUZHYH_RQ": "MapTilerTileserver 反射xss漏洞(CVE-2025-44136)",
     "https://mp.weixin.qq.com/s/bAfsWIuRhVac2SmgUvxOlA": "7月8日高危CVE漏洞速报",
-    "https://mp.weixin.qq.com/s/yudRSd2hjmEd9TxIoLHKmg": "CNVD 本周漏洞态势研判：零日漏洞占比超八成，政企漏洞事件环比大幅上涨；Microsoft加速采用自研MAI模型，降低对OpenAI依赖| 牛览"
+    "https://mp.weixin.qq.com/s/yudRSd2hjmEd9TxIoLHKmg": "CNVD 本周漏洞态势研判：零日漏洞占比超八成，政企漏洞事件环比大幅上涨；Microsoft加速采用自研MAI模型，降低对OpenAI依赖| 牛览",
+    "https://mp.weixin.qq.com/s/Y_XDIUcv-_zYUg9udkNqkQ": "启明星辰发布天镜AI-PTS，破解漏洞验证自动化难题",
+    "https://mp.weixin.qq.com/s/gcdNGcYMQjblLr_J2SnQyA": "PHP 代码审计进入 AI 时代：40+ Agent 协作挖洞，21 类漏洞全自动覆盖",
+    "https://mp.weixin.qq.com/s/MpebdOCePYUPgo-QBzhalA": "【漏洞通告】Linux Kernel GhostLock 权限提升漏洞(CVE-2026-43499)",
+    "https://mp.weixin.qq.com/s/RH2n5i8uP_lh0JmPjKnD8A": "想靠挖漏洞赚赏金？别只会机械跑工具了！掌握这5大核心技术，进阶SRC实战",
+    "https://mp.weixin.qq.com/s/pFH1fmJfTxweGR91iY3NPQ": "【AI安全】Llm-Vuln-Checker开源！金丝雀悄悄揪出LLM安全漏洞",
+    "https://mp.weixin.qq.com/s/3Fdli244PQUuVpG7p5AGAg": "优倍快：注意这个CVSS满分的 UniFi OS 漏洞",
+    "https://mp.weixin.qq.com/s/T60wZJnLEZQdEEC16bcT5A": "【已复现】隐藏15年的 Linux Kernel 提权漏洞 GhostLock（CVE-2026-43499）",
+    "https://mp.weixin.qq.com/s/JpLL8uahfDwGhaTDinUS7g": "【漏洞通告】XWiki Platform Old Core 目录遍历漏洞(CVE-2026-34151)",
+    "https://mp.weixin.qq.com/s/KwXtaKHC8b7PwcbUqvYjcA": "【无问AI网安模型】二进制漏洞分析挖掘能力实战测评",
+    "https://mp.weixin.qq.com/s/CIKNm78KOXbfkO_aXCcgIg": "【已复现】用友U8cloud XChangeServlet SQL注入漏洞(QVD-2026-38848)安全风险通告",
+    "https://mp.weixin.qq.com/s/huX7DXc5K58FgJgjdNktIg": "GhostLock：已存在15年的内核 UAF 漏洞，影响 Linux 所有发行版",
+    "https://mp.weixin.qq.com/s/Z0aaoGShq7B1kBajmvUy-A": "安全419｜一周国际网安资讯：AI平台漏洞集中爆发 勒索软件向内核演进",
+    "https://mp.weixin.qq.com/s/oM26QWwsbWrzaxsj8Yl7XA": "Apache Shiro 反序列化漏洞利用全解析",
+    "https://mp.weixin.qq.com/s/0W37yYHwlsnqdeK3OD85KA": "SharePoint远程代码执行漏洞PoC及技术细节公开",
+    "https://mp.weixin.qq.com/s/0dUn1ZJEpeaOb9uKXR5uxA": "【漏洞通告】Linux Kernel rtmutex 本地权限提升漏洞(CVE-2026-43499)"
 }
