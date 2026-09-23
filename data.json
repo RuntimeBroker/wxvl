@@ -22479,5 +22479,7 @@
     "https://mp.weixin.qq.com/s/TjO5htR9S8eKogVmV_wLQg": "F5 BIG-IP APM OAuth授权服务器存在零日漏洞，可无登录远程代码执行",
     "https://mp.weixin.qq.com/s/yZ5RYNW7LX19ijVzG8cKpw": "AI被一条摩斯密码骗走20万美金的那天，另一个AI正在自己挖0day",
     "https://mp.weixin.qq.com/s/zwBuzMttM7xYjpz5iCtwSQ": "F5 BIG-IP遭0Day攻击，OAuth服务器无需认证即可被远程利用",
-    "https://mp.weixin.qq.com/s/3AFwMx2x46GkHV9uckaM4A": "同一套坏习惯：QNAP CGI 预认证 RCE 到容器逃逸（CVE-2026-34007∕34008）"
+    "https://mp.weixin.qq.com/s/3AFwMx2x46GkHV9uckaM4A": "同一套坏习惯：QNAP CGI 预认证 RCE 到容器逃逸（CVE-2026-34007∕34008）",
+    "https://mp.weixin.qq.com/s/fQpansPQgG_9YKMVknKaiQ": "【客户端安全】代理绕过127监听CDP+Websocket协议未授权RCE漏洞",
+    "https://mp.weixin.qq.com/s/05KPBW6ey5iLPbJtd6iMKA": "大模型辅助补丁分析工作流：拆解路由器高危漏洞链"
 }
