@@ -22618,5 +22618,7 @@
     "https://mp.weixin.qq.com/s/blesnGMBRJCqH2ImkBSaRg": "Linux容器逃逸漏洞细节及概念验证（PoC）代码披露",
     "https://mp.weixin.qq.com/s/DiDJKzTMpC9q2cqxpz4oCA": "【安全圈】MCP官方SDK高危漏洞：恶意服务可盗取OAuth凭证",
     "https://mp.weixin.qq.com/s/Ll2JAkr35FbwNOc03QtQ8Q": "CVE-2026-101909 深度解析：Axios 不是漏洞入口，而是原型污染的「放大器」",
-    "https://mp.weixin.qq.com/s/rNcz37vLoVwapVja4TjcCw": "redisRCE复盘"
+    "https://mp.weixin.qq.com/s/rNcz37vLoVwapVja4TjcCw": "redisRCE复盘",
+    "https://mp.weixin.qq.com/s/-ps4Hty70QFXHX1bRSjpeg": "路径遍历漏洞：一个下载接口引发的系统文件泄露",
+    "https://mp.weixin.qq.com/s/JyXkDWmGtCn2rYsY9iEoMQ": "16岁研究员发现微软身份验证漏洞，导致17.3万亿条记录泄露"
 }
