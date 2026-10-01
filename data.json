@@ -27286,5 +27286,6 @@
     "https://mp.weixin.qq.com/s/QPRiWCsUvv8dCJZTvUT_gA": "SharePoint与MikroTik曝高危RCE，黑客已在疯狂利用！",
     "https://mp.weixin.qq.com/s/tJKiXbtJNbhUgHji8sU9jA": "MikroTik RouterOS 严重漏洞可导致未认证根 RCE",
     "https://mp.weixin.qq.com/s/-eBKnSNJ0T7g5WB_wNAROQ": "渗透测试从业者的新武器 AI 插件主动打 payload，凭证据判定漏洞",
-    "https://mp.weixin.qq.com/s/iCT-ZLl9bnCJseC5s66pUA": "SolarWinds 的严重漏洞使攻击者能够远程在服务器上执行代码"
+    "https://mp.weixin.qq.com/s/iCT-ZLl9bnCJseC5s66pUA": "SolarWinds 的严重漏洞使攻击者能够远程在服务器上执行代码",
+    "https://mp.weixin.qq.com/s/nB9DOIw-SSnDEHTdF3VvCA": "CVE-2026-94545 Next.js next∕og 未经身份验证的远程代码执行"
 }
